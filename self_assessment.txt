@@ -1,14 +1,13 @@
 Rats Sightings in NYC: 
 
-Data Analysis of pubicly accessible data from NYC was used to identify major factors contributing to the increasing rat population. 
+Data Analysis of publicly accessible data from NYC was used to identify major factors contributing to the increasing rat population. 
 
-Model Development included Supervived Learning Models, both Linear and Classifiers.  All models were run and tested and the logistic Model and Balanced Random Model Classifier were selected 
+Model Development included Supervised Learning Models, both Linear and Classifiers.  All models were run and tested and the logistic Model and Balanced Random Model Classifier were selected 
 
-Model results were then showcased and the original questions were addressed regarding major factors possibly affecting rat sightings in NYC
+Model results were then showcased, and the original questions were addressed regarding major factors possibly affecting rat sightings in NYC
 
-A list of features helped identify that certain types of land use and organic trash generated were the most influencial areal charecteristics.
+A list of features helped identify that certain types of land use and organic trash generated were the most influential areal characteristics.
 I suspect these can be translated into population density as the ultimate factor.
  
-Further a very cool Dashboard was developed;
- 
-Our work can be used by New York City residents via an interactive Tableau dashboard.
+Further a very cool Dashboard was developed. 
+Our work can be visualized by New York City residents via an interactive Tableau dashboard.
